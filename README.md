@@ -1,5 +1,5 @@
 #DEMO PROJECT
-This is a simple readme file
+This is now a very unnecessary readme file
 
 I've learnt a lot... really!!!
 
